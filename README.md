@@ -25,6 +25,6 @@ Click above to open the web app directly in your browser. No installation requir
 
 Mold Buddy is intended to support mold-risk awareness and education. It does not directly detect mold or mold spores.
 
-**Developed by:** Arizaidith Hernandez-Hernandez  
+**Developed by:** Arizaidith Hernandez-Hernandez  (email me with any questions at hern30749@alvernia.edu :) )
 **University:** Alvernia University  
 **Program:** Summer Undergraduate Research Fellowship (SURF) 2026
